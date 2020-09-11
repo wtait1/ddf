@@ -14,7 +14,7 @@
  main.go
 
 Found 1 repeat
-```bash
+```
 
 `ddf` detects piped output and will automatically produce "quiet" output:
 
