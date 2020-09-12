@@ -1,6 +1,6 @@
 # ddf
 
- De-Duplicate Files
+ CLI tool to De-Duplicate Files
 
 ```bash
  ❯ cp README.md readme2.md
